@@ -1,7 +1,7 @@
 # Setup
 title:               'Test 2m;;;;;;;;;;;;;;;;;;;;;'
 tagline:             'A Test'
-description:         'A master's research project, supervised by.'
+description:         "A master's research project, supervised by."
 url:                  https://umproj.github.io/T2
 baseurl:             ''
 paginate:            4
