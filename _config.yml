@@ -2,7 +2,7 @@
 title:               Test 2
 tagline:             'A Test'
 description:         'A project.'
-url:                  https://umproj.github.io/T2/
+url:                  https://umproj.github.io/T2
 baseurl:             ''
 paginate:            5
 permalink:           pretty
